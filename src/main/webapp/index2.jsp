@@ -13,6 +13,8 @@
             background-image: url("resources/street-238458.jpg");
             background-size: cover;
         }
+
+
         .container-fluid{
             text-align: center;
             font-family: "Comic Sans MS", sans-serif;
@@ -32,7 +34,7 @@
             font-size: 100px;
             font-family: "Comic Sans MS", sans-serif;
             color: rgb(131, 131, 131);;
-            opacity: 0.7;
+            opacity: 0.8;
         }
 
 
@@ -53,6 +55,26 @@
             background-color: rgba(211, 211, 211,0.5);
             font-size: 25px;
 
+        }
+
+        #contact:hover{
+            font-size: 20px;
+            cursor: pointer;
+        }
+
+        #home:hover{
+            font-size: 20px;
+            cursor: pointer;
+        }
+
+        #about:hover{
+            font-size: 20px;
+            cursor: pointer;
+        }
+
+        #projects:hover{
+            font-size: 20px;
+            cursor: pointer;
         }
 
 

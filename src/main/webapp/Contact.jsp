@@ -81,17 +81,17 @@
 <body>
 <%@ include file="Menu.jsp"%>
 
-<button class="alert alert-dark" role="alert">Phone</button>
-<div class="panel">
+<button class="alert alert-dark" role="alert"><i class="fas fa-phone-square"></i>  Phone</button>
+<div class="panel" style="background: transparent">
     <p>123-456-789</p>
 </div>
 <br>
-<button class="alert alert-dark" role="alert">E-mail</button>
+<button class="alert alert-dark" role="alert"><i class="fas fa-at"></i>  E-mail</button>
 <div class="panel">
     <p>my-mail@e-mail.com</p>
 </div>
 <br>
-<button class="alert alert-dark" role="alert">LinkedIn</button>
+<button class="alert alert-dark" role="alert"><i class="fab fa-linkedin"></i> LinkedIn</button>
 <div class="panel">
     <p>LinkedIn link</p>
 </div>
